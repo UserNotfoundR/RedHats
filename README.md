@@ -4,6 +4,6 @@ Obrigado 💜NLW pelo layout.
 
 # Creditos:
 
-remove.os
+Remove.os
 
-ts_lucas
+Ts_lucas

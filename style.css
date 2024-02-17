@@ -281,3 +281,12 @@ aside i {
 .btn_social ul li a:hover {
   color: #ffffff;
 }
+
+.purple-underline {
+  text-decoration: underline purple;
+  }
+
+      /* Adicionado estilo para centralizar o parágrafo */
+.centered-text {
+    text-align: center; 
+    font-size: 1.5em;}

@@ -1,9 +1,9 @@
 # RedHats'S
-
 Obrigado 💜NLW pelo layout.
 
 # Creditos:
+Back end:
+Remove.os 
 
-Remove.os
-
-Ts_lucas
+Front end:
+Lucasmacarone_r

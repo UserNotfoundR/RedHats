@@ -3,5 +3,4 @@ Obrigado 💜NLW pelo layout.
 
 # Creditos:
 Back end: Remove.os 
-
-Front end: Lucasmacarone_r
+Front end: MacarroneOFC
